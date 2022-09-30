@@ -100,4 +100,4 @@ npm run start
 
 ## Link <a name = "link"></a>
 
-- [Tokenz777-V01](http://HalaNHasan.github.io/Tokenz777-V01-)
+- [Tokenz777-V01](http://HalaNHasan.github.io/Tokenz777--V01--)
