@@ -1,5 +1,5 @@
 <div  align="center" style ="width=200px ;height=200px  ">
-<img width=200px height=200px src="src/assets/logo.png" alt="Project logo"></a>
+<img width=200px height=200px src="./frontend/src/assets/logo.png" alt="Project logo"></a>
 </div >
 
 <h3 align="center">Tokenz777</h3>
@@ -68,22 +68,22 @@ npm run start
 1. Welcome Page
 
 - The user must have metamask installed & must be connected to the Smart Chain-Testnet to access the content of the application.
-  <img  src="src/assets/welcome1.png" alt="welcome1"></a>
-  <img  src="src/assets/welcome2.png" alt="welcome2"></a>
-  <img  src="src/assets/welcome3.png" alt="welcome3"></a>
+  <img  src="./frontend/src/assets/welcome1.png" alt="welcome1"></a>
+  <img  src="./frontend/src/assets/welcome2.png" alt="welcome2"></a>
+  <img  src="./frontend/src/assets/welcome3.png" alt="welcome3"></a>
 
 1. Main Page
 
 - All tokens created by the contract are going to be rendered in the main page.
 - For tokens created by the user: send option will be shown for the current user.
-  <img  src="src/assets/mainPage.png" alt="mainPage"></a>
+  <img  src="./frontend/src/assets/mainPage.png" alt="mainPage"></a>
 
 2. Create Tokens
 
 - The user can create tokens by using "Create" feature.
 - Token name,symbol & total supply are required to create a new ERC777 token.
 - This operation will cost the user 0.15BNB + gas fees of the process.
-  <img  src="src/assets/createPage.png" alt="createPage"></a>
+  <img  src="./frontend/src/assets/createPage.png" alt="createPage"></a>
 
 3. Send Tokens
 
@@ -91,8 +91,8 @@ npm run start
 - Once send link is clicked;the user will be redirected to the send page.
 - In the send page;token name,user balance of this token & token address will be shown.
 - This operation is free;only gas fees of the process will be paid.
-  <img src="src/assets/sendPage1.png" alt="sendPage1"></a>
-  <img  src="src/assets/sendPage2.png" alt="sendPage2"></a>
+  <img src="./frontend/src/assets/sendPage1.png" alt="sendPage1"></a>
+  <img  src="./frontend/src/assets/sendPage2.png" alt="sendPage2"></a>
 
 ## Built Using <a name = "built_using"></a>
 
