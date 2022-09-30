@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tokenz777-V01-/static/css/main.ac44736a.css",
+    "main.js": "/Tokenz777-V01-/static/js/main.23af6347.js",
+    "static/media/bgWelcome.jpg": "/Tokenz777-V01-/static/media/bgWelcome.ef87971fbe2821dfd36d.jpg",
+    "static/media/logo.png": "/Tokenz777-V01-/static/media/logo.cd7f0d7b752965725557.png",
+    "index.html": "/Tokenz777-V01-/index.html",
+    "main.ac44736a.css.map": "/Tokenz777-V01-/static/css/main.ac44736a.css.map",
+    "main.23af6347.js.map": "/Tokenz777-V01-/static/js/main.23af6347.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac44736a.css",
+    "static/js/main.23af6347.js"
+  ]
+}
