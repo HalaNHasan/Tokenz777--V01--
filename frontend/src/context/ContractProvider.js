@@ -192,15 +192,17 @@ export const ContractProvider = ({ children }) => {
     }
   };
 
-  //to detect metamak wallet change:
-  provider.on("accountsChanged", function (accounts) {
-    setCurrentAccount(accounts[0]);
-    setIsChanged(!isChanged);
-  });
-  //to detect network change:
-  provider.on("chainChanged", () => {
-    connectSmartCahinTestnet();
-  });
+  if (provider) {
+    //to detect metamak wallet change:
+    provider.on("accountsChanged", function (accounts) {
+      setCurrentAccount(accounts[0]);
+      setIsChanged(!isChanged);
+    });
+    //to detect network change:
+    provider.on("chainChanged", () => {
+      connectSmartCahinTestnet();
+    });
+  }
 
   useEffect(() => {
     if (!correctNetwork) {
