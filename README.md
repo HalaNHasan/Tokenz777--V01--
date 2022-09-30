@@ -16,7 +16,6 @@
 - [Getting Started](#getting_started)
 - [Usage](#usage)
 - [Built Using](#built_using)
-- [Link](#link)
 
 ## About <a name = "about"></a>
 
@@ -97,7 +96,3 @@ npm run start
 ## Built Using <a name = "built_using"></a>
 
 - [React JS](https://https://reactjs.org/)
-
-## Link <a name = "link"></a>
-
-- [Tokenz777-V01](http://HalaNHasan.github.io/Tokenz777--V01--)
