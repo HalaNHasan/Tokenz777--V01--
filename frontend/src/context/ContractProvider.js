@@ -192,7 +192,7 @@ export const ContractProvider = ({ children }) => {
     }
   };
 
-  if (provider) {
+  if (provider != undefined) {
     //to detect metamak wallet change:
     provider.on("accountsChanged", function (accounts) {
       setCurrentAccount(accounts[0]);
