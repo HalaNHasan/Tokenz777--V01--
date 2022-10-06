@@ -2,7 +2,7 @@
 <img width=200px height=200px src="./frontend/src/assets/logo.png" alt="Project logo"></a>
 </div >
 
-<h3 align="center">Tokenz777</h3>
+<h3 align="center">Tokenz777-V01</h3>
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## About <a name = "about"></a>
 
-- Tokenz777 is a decentralized web application built on Smart Chain-Testnet.
+- Tokenz777-V01 is a decentralized web application built on Smart Chain-Testnet.
 - This is V01 of Tokenz777 modified to test [tokenzsdk-v0](https://www.npmjs.com/package/tokenzsdk-v0) package.
 
 <b>Features:</b>
@@ -74,7 +74,7 @@ npm run start
 1. Main Page
 
 - All tokens created by the contract are going to be rendered in the main page.
-- For tokens created by the user: send option will be shown for the current user.
+- Each created token will have a send option.
   <img  src="./frontend/src/assets/mainPage.png" alt="mainPage"></a>
 
 2. Create Tokens

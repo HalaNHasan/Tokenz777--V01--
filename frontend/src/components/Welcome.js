@@ -36,7 +36,7 @@ const Welcome = () => {
         }}
         data-aos="zoom-in"
       >
-        <Card.Title className="fs-1">Tokenz777</Card.Title>
+        <Card.Title className="fs-1">Tokenz777-V01</Card.Title>
         <Card.Text className="fs-2">
           An application where you can launch your ICO!
         </Card.Text>

@@ -33,7 +33,7 @@ const NavBar = () => {
           className="d-inline-block align-top "
           style={{ backgroundColor: "white", borderRadius: "0.5rem" }}
         />{" "}
-        Tokenz777{" "}
+        Tokenz777-V01{" "}
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       <Navbar.Collapse
